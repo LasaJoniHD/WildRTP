@@ -1,8 +1,7 @@
 # WildRTP
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/wildrtp?label=Modrinth&color=green)](https://modrinth.com/plugin/wildrtp "Modrinth")
-[![Version](<https://img.shields.io/badge/Version-3.0%20(Alpha)-orange>)](https://github.com/LasaJoniHD/WildRTP/releases)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord&color=7289DA)](https://discord.com/invite/Mbq2P92XqC)
+![Version](<https://img.shields.io/badge/Version-3.0%20(Alpha)-orange>)
 
 **WildRTP** is a feature-packed random teleportation plugin for Minecraft servers. It allows players to find a safe, random location in the world to start their adventure.
 
