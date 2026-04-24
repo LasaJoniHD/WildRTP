@@ -8,7 +8,7 @@
 
 ## 🐛 Bug Reports & Support
 
-Found a bug in the Alpha? Have a suggestion?
+Found a bug? Have a suggestion?
 
 - **Issues:** [Report on GitHub](https://github.com/LasaJoniHD/WildRTP/issues)
 - **Discord:** [Join our Community](https://discord.com/invite/Mbq2P92XqC)
